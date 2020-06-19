@@ -1,0 +1,40 @@
+{
+  "name": "agri-gestion-mobile",
+  "version": "1.0.0",
+  "description": "PWA for agri gestion software",
+  "author": "Anthony Pilloud",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/icon": "^3.0.0-beta.16",
+    "@nuxtjs/manifest": "^3.0.0-beta.16",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "form-data": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "luxon": "^1.23.0",
+    "node-fetch": "^2.6.0",
+    "nuxt": "^2.0.0",
+    "ribs-admin-bundle-templates": "^1.0.17",
+    "ribs-api": "^1.0.7",
+    "ribs-core": "^0.0.9-4",
+    "ribs-flash-message": "^1.2.7",
+    "ribs-popup": "^1.1.5",
+    "vue-datetime": "^1.0.0-beta.11",
+    "weekstart": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}
