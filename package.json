@@ -16,7 +16,7 @@
     "@nuxtjs/manifest": "^3.0.0-beta.16",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "form-data": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "luxon": "^1.23.0",
     "node-fetch": "^2.6.0",
     "nuxt": "^2.0.0",
